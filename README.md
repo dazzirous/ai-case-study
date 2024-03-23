@@ -31,3 +31,17 @@ Wysa mainly leverages four technologies. Conversational AI, Emotional Intelligen
 Wysa is operating in the field of Digital Mental Health. The area focuses on leveraging technology to deliver mental health suppoort, information and services(cite)
 
 There are quite a few innovations for this field in the last decade. Arguably the most important is smart phones. Their has been an unprecedented rise in mobile health(cite). Phones are excellent tools for delivering mental health interventions. The Wysa app offers convinience on many different levels. This has also excelerated the rise in tele health. This innovation has allowed people to connect to doctors and therapits virtually almost anywhere they are. Lastly is the growth of Ai powered solutions and Data Analytics. Chatbots and other AI powered tools have gained major traction. Not only does this increase accessibility but it also allows the company to use the data for personalized interventions to improve effectiveness and behavioral outcomes.
+
+With a great market comes many great competitors. There are some big movers in the Digital Mental Health Field. Here is a list of a few of them and what they specialize in.
+
+Talkspace & Betterhelp. They offer online therapy with licensed therapist.
+
+Calm and Headspace. They specialize in mindfulness meditation and relaxtion thecniques
+
+Woebot Health & Youper. Uses chatbots based on CBT(define) techniques to manage anxiety and depression
+
+Libero.ai & Koko Health. Offering Ai-powered coaching and support for mental health.
+
+Spring Health & Lyra health. Which provies empoyer-sponsered access to digital mental health platforms.
+
+## Landscape
