@@ -57,3 +57,4 @@ My reccomendation would be to either tap into or assemble a team of well qualifi
 ## Citatons
 
 (A) [Wysa.com](https://www.wysa.com/)
+(B) [pitchbook] (https://yourstory.com/companies/wysa)
