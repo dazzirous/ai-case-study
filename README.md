@@ -54,6 +54,6 @@ The main metrics used in the Digital Mental Health Market are: User engagement, 
 
 My reccomendation would be to either tap into or assemble a team of well qualified therapists for emergency situations. While it is clear that this technology is extremely accessable. The people who are coming to it are far more likely than the average person to need immediate help from a human being. Even if the end result of a conversation with a AI sends you to a suicide hotline Wysa still ends up being possibly the last step towards someone elses catastrophic descion. Addmittedly this is not a new piece of technology. However, to avoid any liability (which all companies face at some point) it would make sense to make sure they have a stop gap in place to mitigate it.
 
-# Citatons
+## Citatons
 
-(A) [Link Text]((https://www.wysa.com/)https://www.wysa.com/)
+(A) [Link Text](https://www.wysa.com/)
