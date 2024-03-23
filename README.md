@@ -1,6 +1,6 @@
 # ai-case-study
-## Case Study of wysa
-# Over view and Origin
+# Case Study of wysa
+## Over view and Origin
 **wysa**
 
 Company was incorparated in 2015
@@ -13,7 +13,7 @@ The total funding is $29 Million
 
 The funding sources include: *Google for startups accelerator: India*, *Zurich Innovations Championship*, *Kae Capital*, *Pie Ventures* and *W Health Ventures*.
 
-# Bussiness: Activies Addressing Mental Health Needs
+## Bussiness: Activies Addressing Mental Health Needs
 
 Wysa aims to address the limitations of traditional mental health care like limited accessibility and lack of immediate support. Ascessibility issues range from cost, limited resources depending on the area and stigmas. All of which can preven people from seeking help. Even when people are already in therapy they can often require assistance in between sessions.
 
@@ -26,7 +26,7 @@ Wysa has quite a few potential advantages when it comes to the market of telehea
 
 Wysa mainly leverages four technologies. Conversational AI, Emotional Intelligence Algorythyms, Machine Learning and Data Analytics. Conversational AI lets Wyas interacti with its users in a natural way similar to current LLM's. The company can also analyze user inputs to respond accordingly with the AI. In addition they track the users progress using data analytics to improve its effectiveness. Machine learning enables them to personalize the user experience and provide targeted support.
 
-# Landscape
+## Landscape
 
 Wysa is operating in the field of Digital Mental Health. The area focuses on leveraging technology to deliver mental health suppoort, information and services(cite)
 
@@ -44,4 +44,9 @@ Libero.ai & Koko Health. Offering Ai-powered coaching and support for mental hea
 
 Spring Health & Lyra health. Which provies empoyer-sponsered access to digital mental health platforms.
 
-## Landscape
+## Rseults
+
+Wysa has reported significant engagement with their app. Having facilitated over 550 million conversations across 60 countries. (https://blogs.wysa.io/blog/inside-wysa/wysa-to-launch-global-employee-mental-health-report-at-world-economic-forum). In addition to this they have secured two partnerships with major goverments. Such as the NHS (United Kingdom) and Singapores Ministry of Health (cite). Recentally the FDA has given them approval for an assesment for faster access to the United States. Which would increase the reach of the company significantly.
+
+The main metrics used in the Digital Mental Health Market are: User engagement, satisfaction, clinical outcomes, cost-effectiveness and market share. Given the amount of conversations facilitated and partnerships with goverment they appear to be doing quite well in the area. Given that information when we consider how they are preforming compared to their competitors: User base is high (550 Million), credibility and reach are established (NHS, Singapore, FDA) and their focus on technology instead of human therapists would lead to the conclusion that they are preforming well.
+
