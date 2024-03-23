@@ -27,3 +27,7 @@ Wysa has quite a few potential advantages when it comes to the market of telehea
 Wysa mainly leverages four technologies. Conversational AI, Emotional Intelligence Algorythyms, Machine Learning and Data Analytics. Conversational AI lets Wyas interacti with its users in a natural way similar to current LLM's. The company can also analyze user inputs to respond accordingly with the AI. In addition they track the users progress using data analytics to improve its effectiveness. Machine learning enables them to personalize the user experience and provide targeted support.
 
 # Landscape
+
+Wysa is operating in the field of Digital Mental Health. The area focuses on leveraging technology to deliver mental health suppoort, information and services(cite)
+
+There are quite a few innovations for this field in the last decade. Arguably the most important is smart phones. Their has been an unprecedented rise in mobile health(cite). Phones are excellent tools for delivering mental health interventions. The Wysa app offers convinience on many different levels. This has also excelerated the rise in tele health. This innovation has allowed people to connect to doctors and therapits virtually almost anywhere they are. Lastly is the growth of Ai powered solutions and Data Analytics. Chatbots and other AI powered tools have gained major traction. Not only does this increase accessibility but it also allows the company to use the data for personalized interventions to improve effectiveness and behavioral outcomes.
