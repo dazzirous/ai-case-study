@@ -15,7 +15,7 @@ The total funding is $29 Million (B)
 
 The funding sources include: *Google for startups accelerator: India*, *Zurich Innovations Championship*, *Kae Capital*, *Pie Ventures* and *W Health Ventures*. (B)
 
-## Bussiness: Activies Addressing Mental Health Needs
+## Bussiness: Activities Addressing Mental Health Needs
 
 Wysa aims to address the limitations of traditional mental health care like limited accessibility and lack of immediate support. Ascessibility issues range from cost, limited resources depending on the area and stigmas. All of which can preven people from seeking help. Even when people are already in therapy they can often require assistance in between sessions. (A)
 
