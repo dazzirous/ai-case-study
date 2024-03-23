@@ -9,7 +9,8 @@ The Co-Founder & CEO is Jyostana Aggarwal
 
 Founder Jyostana Aggarwal wanted to make 
 >mental health support more accessible and affordable.
-> She recognized the limitations of traditional therapy, like cost, stigman and lack of availability in many areas. She created Wysa to provide a convinient and anonymous way for people to receive mental health support through a conversational AI chat bot.
+>
+She recognized the limitations of traditional therapy, like cost, stigman and lack of availability in many areas. She created Wysa to provide a convinient and anonymous way for people to receive mental health support through a conversational AI chat bot.
 
 The total funding is $29 Million
 
