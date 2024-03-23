@@ -1,4 +1,3 @@
-# ai-case-study
 # Case Study of wysa
 ## Over view and Origin
 **wysa**
