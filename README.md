@@ -50,3 +50,6 @@ Wysa has reported significant engagement with their app. Having facilitated over
 
 The main metrics used in the Digital Mental Health Market are: User engagement, satisfaction, clinical outcomes, cost-effectiveness and market share. Given the amount of conversations facilitated and partnerships with goverment they appear to be doing quite well in the area. Given that information when we consider how they are preforming compared to their competitors: User base is high (550 Million), credibility and reach are established (NHS, Singapore, FDA) and their focus on technology instead of human therapists would lead to the conclusion that they are preforming well.
 
+## Recommendations
+
+My reccomendation would be to either tap into or assemble a team of well qualified therapists for emergency situations. While it is clear that this technology is extremely accessable. The people who are coming to it are far more likely than the average person to need immediate help from a human being. Even if the end result of a conversation with a AI sends you to a suicide hotline Wysa still ends up being possibly the last step towards someone elses catastrophic descion. Addmittedly this is not a new piece of technology. However, to avoid any liability (which all companies face at some point) it would make sense to make sure they have a stop gap in place to mitigate it.
