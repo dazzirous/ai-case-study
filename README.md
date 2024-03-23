@@ -24,3 +24,6 @@ There is not an easy answer when it comes to the market size for Wyas's target a
 
 Wysa has quite a few potential advantages when it comes to the market of telehealth. First they have accessibility and affordability. They offer a convinient and lower-cost alternative to regular therapy. Second is there anonymity. Stigmas surrounding mental health can be a barrier to many who should seek it. Being able annoymouisly access an app makes it easier for patients to get the help they need. The app is also availible 24/7 allowing care to be delivered at all times. 
 
+Wysa mainly leverages four technologies. Conversational AI, Emotional Intelligence Algorythyms, Machine Learning and Data Analytics. Conversational AI lets Wyas interacti with its users in a natural way similar to current LLM's. The company can also analyze user inputs to respond accordingly with the AI. In addition they track the users progress using data analytics to improve its effectiveness. Machine learning enables them to personalize the user experience and provide targeted support.
+
+# Landscape
