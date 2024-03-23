@@ -56,4 +56,4 @@ My reccomendation would be to either tap into or assemble a team of well qualifi
 
 ## Citatons
 
-(A) [Link Text](https://www.wysa.com/)
+(A) [Wysa.com](https://www.wysa.com/)
