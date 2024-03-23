@@ -1,15 +1,15 @@
 # Case Study of wysa
 ## Over view and Origin
-**wysa**
+**Wysa** (Touchkin eServices Private Limited) (A)
 
-Company was incorparated in 2015
+Company was incorparated in 2015 (A)
 
-The Co-Founder & CEO is Jyostana Aggarwal
+The Co-Founder & CEO is Jyostana Aggarwal (D)
 
 Founder Jyostana Aggarwal wanted to make 
->mental health support more accessible and affordable.
+>mental health support more accessible and affordable. (D)
 >
-She recognized the limitations of traditional therapy, like cost, stigman and lack of availability in many areas. She created Wysa to provide a convinient and anonymous way for people to receive mental health support through a conversational AI chat bot.
+She recognized the limitations of traditional therapy, like cost, stigman and lack of availability in many areas. She created Wysa to provide a convinient and anonymous way for people to receive mental health support through a conversational AI chat bot. 
 
 The total funding is $29 Million (B)
 
